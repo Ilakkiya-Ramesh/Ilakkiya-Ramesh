@@ -111,7 +111,7 @@ Designed and developed a responsive personal portfolio website to showcase my sk
 
 **Technologies:** HTML | CSS | Responsive Web Design
 
-🔗 Portfolio: https://codepen.io/Ilakkiya-RS
+🔗 Portfolio: https://ilakkiya-ramesh.github.io/Ilakkiya-Ramesh-Portfolio/
 
 ---
 
